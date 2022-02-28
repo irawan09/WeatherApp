@@ -1,4 +1,4 @@
-package irawan.electroshock.weatherforecast.data
+package irawan.electroshock.weatherforecast.model
 
 data class Sys(
     val country: String,

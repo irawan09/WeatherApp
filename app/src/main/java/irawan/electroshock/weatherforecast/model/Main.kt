@@ -1,4 +1,4 @@
-package irawan.electroshock.weatherforecast.data
+package irawan.electroshock.weatherforecast.model
 
 data class Main(
     val feels_like: Double,
