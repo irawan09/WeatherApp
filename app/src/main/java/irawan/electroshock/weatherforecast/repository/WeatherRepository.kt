@@ -1,6 +1,5 @@
 package irawan.electroshock.weatherforecast.repository
 
-import android.provider.ContactsContract
 import android.util.Log
 import irawan.electroshock.weatherforecast.data.DataOrException
 import irawan.electroshock.weatherforecast.model.Weather
