@@ -1,4 +1,4 @@
-package irawan.electroshock.weatherforecast.screen
+package irawan.electroshock.weatherforecast.screen.splash
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
