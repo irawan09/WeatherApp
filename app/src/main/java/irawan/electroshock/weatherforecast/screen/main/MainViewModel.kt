@@ -32,6 +32,6 @@ class MainViewModel @Inject constructor(private val repository: WeatherRepositor
                 data.value.loading = false
             }
         }
-        Log.d(Constants.STATUS, "${data.value.data}")
+        Log.d(Constants.STATUS, "Data : ${data.value.data}")
     }
 }
